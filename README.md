@@ -1,4 +1,6 @@
-# NACSSHOST İnternet ve Bilişim Hizmetleri
+# [NACSSHOST İnternet ve Bilişim Hizmetleri](https://nacsshost.com)
+
+### [DISCORD SUNUCUMUZ](https://discord.nacsshost.com)
 
 ## DISCORD BOT ALTYAPISI
 
